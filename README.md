@@ -1,4 +1,4 @@
-# Rockectseat
+# Rocketseat
 
 ## Ignite - Elixir -Plano de Estudos
 
