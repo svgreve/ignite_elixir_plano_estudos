@@ -1,6 +1,6 @@
 # Rocketseat
 
-## Ignite - Elixir -Plano de Estudos
+## Ignite - Elixir - Plano de Estudos
 
 Devido à pandemia, eu fico muito tempo em casa. Dessa forma, posso estudar quase todo o tempo disponível.
 
